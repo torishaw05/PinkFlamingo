@@ -1,0 +1,65 @@
+#one {
+  color:#FF0099;
+  font-size: 35px;
+  font-family: monospace;
+  font-weight: bold;
+  margin-top: 20px;
+
+}
+
+nav {
+  height:80px;
+  background-image: url(img/bkg.jpg);
+  background-repeat: no-repeat;
+  background-position:top;
+  background-size: cover;
+  }
+
+  body {
+    background-color: #FFCAF9;
+  }
+
+  h1 {
+    font-family: monospace;
+    font-size: 50px;
+    color: #FF0099;
+    margin: 0px;
+  }
+h2 {
+  font-family: monospace;
+  font-size: 40px;
+  color: #FF0099;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
+.pic {
+  border: 5px solid #FF0099 ;
+  height: 40vw;
+  width: 40vw;
+  margin: 10px;
+  color: #FF0099;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+footer {
+  background-image: url(img/bkg.jpg);
+  height: 40px;
+  margin: 50px;
+}
+
+footer div {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: monospace;
+}
+]
